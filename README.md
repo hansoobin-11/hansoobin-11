@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 한수빈</h1>
-<h3 align="center">A passionate backend developer from South Korea</h3>
+<h3 align="center">개발자 지망생입니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansoobin-11&label=Profile%20views&color=0e75b6&style=flat" alt="hansoobin-11" /> </p>
 
